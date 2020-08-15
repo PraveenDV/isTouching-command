@@ -1,0 +1,7 @@
+var car,wall;
+
+function setup(){
+    createCanvas(1600,400);
+    car=createSprite(50,200,20,20);
+    wall=createSprite()
+}
